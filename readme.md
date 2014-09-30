@@ -38,7 +38,7 @@
 
 確認事件與使用案例
 
-<table border="1" width="50">
+<table border="1" width="50" bgcolor="blue">
 <tr>
 <th>事件名稱</th>
 <th>使用案例名稱</th>
