@@ -93,7 +93,7 @@
 </tr>
 </table>
 
-個別使用案例的活動圖 (P.114)
+個別使用案例的活動圖 (P.114)<br>
 <img src="https://farm4.staticflickr.com/3932/15272137627_670bfe1bdc_o.png" width="777" height="500" alt="1">
 
 <img src="https://farm4.staticflickr.com/3928/15272137577_9a17a8ab27_o.png" width="769" height="500" alt="2">
@@ -102,7 +102,7 @@
 
 <img src="https://farm4.staticflickr.com/3928/15272003670_2b23612448_o.png" width="774" height="572" alt="4">
 
-個別使用案例說明 (P.117)
+個別使用案例說明 (P.117)<br>
 <img src="https://farm3.staticflickr.com/2947/15435729826_891176ce44_o.png" width="657" height="613" alt="21">
 
 <img src="https://farm4.staticflickr.com/3932/15272200278_c7955edef5_o.png" width="595" height="669" alt="22">
@@ -111,5 +111,5 @@
 
 <img src="https://farm6.staticflickr.com/5601/15272256247_3dd30cd514_o.png" width="499" height="667" alt="24">
 
-使用案例圖 (P.120)
+使用案例圖 (P.120)<br>
 <img src="https://farm3.staticflickr.com/2947/15272137517_9d9627778e_o.png" width="562" height="361" alt="P120">
