@@ -93,4 +93,11 @@
 </tr>
 </table>
 
-<img src="https://dl-web.dropbox.com/get/1.png?_subject_uid=165402753&w=AAAY_2LRCMuinrItkmQGIZWYNz2Favk4Fa97nOgA_Tiodw">
+個別使用案例的活動圖 (P.114)
+<img src="https://farm4.staticflickr.com/3932/15272137627_670bfe1bdc_o.png" width="777" height="500" alt="1"><
+
+<img src="https://farm4.staticflickr.com/3928/15272137577_9a17a8ab27_o.png" width="769" height="500" alt="2">
+
+<img src="https://farm3.staticflickr.com/2945/15272003680_40ba7e63b0_o.png" width="773" height="500" alt="3">
+
+<img src="https://farm4.staticflickr.com/3928/15272003670_2b23612448_o.png" width="774" height="572" alt="4">
