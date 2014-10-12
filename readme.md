@@ -300,3 +300,8 @@
 
 4.景點介紹影片查詢作業 初步類別圖<br>
 <img src="https://farm4.staticflickr.com/3952/15492128166_134b195098_o.png" width="572" height="170" alt="5-4">
+
+系統的初步類別圖 (p151 圖5.30)<br>
+註:屬性需加入visibility + data type以及屬於哪種類別boundary entity controller<br>
+<img src="https://farm4.staticflickr.com/3940/15328432639_a6a7902847_o.png" width="633" height="255" alt="5-5">
+
