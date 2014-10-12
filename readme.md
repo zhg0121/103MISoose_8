@@ -103,13 +103,80 @@
 <img src="https://farm4.staticflickr.com/3928/15272003670_2b23612448_o.png" width="774" height="572" alt="4">
 
 個別使用案例說明 (P.117)<br>
-<img src="https://farm3.staticflickr.com/2947/15435729826_891176ce44_o.png" width="657" height="613" alt="21">
-
-<img src="https://farm4.staticflickr.com/3932/15272200278_c7955edef5_o.png" width="595" height="669" alt="22">
-
-<img src="https://farm3.staticflickr.com/2947/15458828125_640b7372f4_o.png" width="605" height="661" alt="23">
-
-<img src="https://farm6.staticflickr.com/5601/15272256247_3dd30cd514_o.png" width="499" height="667" alt="24">
+<img src="https://farm6.staticflickr.com/5601/15514571202_9a6d5bb39b_o.png" width="567" height="571" alt="2-1">
+<img src="https://farm6.staticflickr.com/5599/15514971405_e939dafbc5_o.png" width="501" height="568" alt="2-2">
+<img src="https://farm4.staticflickr.com/3945/15514571062_44146b7d79_o.png" width="499" height="570" alt="2-3">
+<img src="https://farm3.staticflickr.com/2949/15328385577_a5ce6363c8_o.png" width="401" height="551" alt="2-4">
 
 使用案例圖 (P.120)<br>
-<img src="https://farm3.staticflickr.com/2947/15272137517_9d9627778e_o.png" width="562" height="361" alt="P120">
+<img src="https://farm3.staticflickr.com/2950/15511812581_b9e6e81617_o.png" width="870" height="509" alt="P120-2">
+
+
+<table border="1" >
+<tr>
+<th>使用案例名稱</th>
+<th>旅行社查詢作業</th>
+</tr>
+
+<tr>
+<td>使用案例描述</td>
+
+<td>客戶可於網頁瀏覽部分旅行社資訊或自行查詢，依照自身喜好找出其有興趣的旅行社網站，以獲取相關的資料。</td>
+</tr>
+
+<tr>
+<td>主要參與者</td>
+<td>客戶、規劃人員</td>
+</tr>
+
+<tr>
+<td>利害關係人與目標</td>
+<td>客戶：能夠查詢各旅行社之相關資訊<br>
+規劃人員：提供最新的旅行社資訊<br>
+</td>
+</tr>
+
+<tr>
+<td>前置條件</td>
+<td>無。</td>
+</tr>
+
+<tr>
+<td>後置條件</td>
+<td>進行相關旅行社資訊的查詢</td>
+</tr>
+
+<tr>
+<td>主要成功情節</td>
+<td>
+<table border="1">
+	<tr>
+		<td>參與者</td>
+		<td>系統</td>
+	</tr>
+	<tr>
+		<td>1.客戶於入口網站中，瀏覽本系統已列出之相關旅行社資訊。<br>
+		2.客戶可於搜尋列進行其他旅行社之搜尋。<br>
+		3.規劃人員進行旅行社資訊的更新並統計客戶所喜好的旅行社。<br>
+		</td>
+
+		<td>1.1	瀏覽頁面顯示旅行社相關資訊畫面。<br>
+		2.1	使用google搜尋引擎另開分頁以進行其他旅行社的搜尋。<br>
+		3.1	規劃人員於系統之後端資料庫進行資訊的更新。<br>
+		</td>
+	</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td>例外情節</td>
+
+<td>*a. 如果有欄位無法(未)輸入，或資料無法儲存，系統需給予警告並指向錯誤頁面。</td>
+</tr>
+
+<tr>
+<td>其他需求</td>
+<td>無。</td>
+</tr>
+</table>
