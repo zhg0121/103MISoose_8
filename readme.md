@@ -117,7 +117,7 @@
 <img src="https://farm4.staticflickr.com/3942/15404081360_290cf2eda2_o.png" width="513" height="388" alt="6">
 
 使用案例圖 (P.120)<br>
-<img src="https://scontent-a-sjc.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/s480x480/10689910_958995600781570_5584691236118006573_n.jpg?oh=16fd22aef057083cbfe0fd906303622e&oe=54B8A601" width="876" height="714" alt="P120-3">
+<img src="https://scontent-a-sjc.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/10689910_958995600781570_5584691236118006573_n.jpg?oh=1dc82edeb000545994b8c51d436ed29f&oe=54EE6EEC" width="876" height="714" alt="P120-3">
 
 
 使用案例的名詞與概念類別列舉表 (P.129 表5.4)<br>
