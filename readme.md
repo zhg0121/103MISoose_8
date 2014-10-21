@@ -404,13 +404,13 @@
 <img src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/1422427_958996370781493_3110996738964494799_n.jpg?oh=45e7ee1922a5ca3d21493bd5741637a3&oe=54B750A3&__gda__=1425516765_588be5ee4d04ed6ea44be0c0f12ffe53" width="539" height="317" alt="51">
 
 2.價格比對查詢作業 初步類別圖<br>
-<img src="https://scontent-a-sjc.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10653331_958996374114826_1703807182386224318_n.jpg?oh=8d690c9b982f1af5f0e95cdbebd7ee34&oe=54E86A29" width="514" height="223" alt="52">
+<img src="https://scontent-a-sjc.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10653331_958996374114826_1703807182386224318_n.jpg?oh=8d690c9b982f1af5f0e95cdbebd7ee34&oe=54E86A29" width="600" height="223" alt="52">
 
 3.旅遊行程查詢作業 初步類別圖<br>
-<img src="https://scontent-a-sjc.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10653331_958996374114826_1703807182386224318_n.jpg?oh=8d690c9b982f1af5f0e95cdbebd7ee34&oe=54E86A29" width="514" height="224" alt="53">
+<img src="https://scontent-a-sjc.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10653331_958996374114826_1703807182386224318_n.jpg?oh=8d690c9b982f1af5f0e95cdbebd7ee34&oe=54E86A29" width="600" height="224" alt="53">
 
 4.景點介紹影片查詢作業 初步類別圖<br>
-<img src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/544929_958996377448159_5499937259047528789_n.jpg?oh=57011e70830c0422165c64687bb901d1&oe=54ADEB6F&__gda__=1420751085_36c97d0dc2ed204b3cdab82aa5f07fa6" width="501" height="222" alt="54">
+<img src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/544929_958996377448159_5499937259047528789_n.jpg?oh=57011e70830c0422165c64687bb901d1&oe=54ADEB6F&__gda__=1420751085_36c97d0dc2ed204b3cdab82aa5f07fa6" width="600" height="222" alt="54">
 
 5.客戶基本資料作業 初步類別圖<br>
 <img src="https://scontent-b-sjc.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/1010389_958996384114825_8608408008096626978_n.jpg?oh=802be205cc0891ab1a0a8c7091696101&oe=54EAE2D5" width="564" height="246" alt="55">
