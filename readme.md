@@ -452,62 +452,62 @@
 
 二、每個名稱事件之合約 (表6.6 p169)<br>
 1.旅行社查詢作業<br>
-
-<img src="https://farm4.staticflickr.com/3951/15587303531_4dd782e391_o.png" width="100" height="31" alt="611">
+<img src="https://farm4.staticflickr.com/3951/15587303531_4dd782e391_o.png" width="501" height="222" alt="611">
 
 <img src="https://farm6.staticflickr.com/5609/15587303511_07718c9c0c_o.png" width="501" height="222" alt="612">
 
-<img src="https://farm6.staticflickr.com/5611/15590804112_57418f9a5e_o.png" width="501" height="1228" alt="613">
+<img src="https://farm6.staticflickr.com/5611/15590804112_57418f9a5e_o.png" width="501" height="222" alt="613">
 
 <img src="https://farm4.staticflickr.com/3949/14969817503_316812bfd7_o.png" width="501" height="222" alt="614">
 
 2.價格比對查詢作業<br>
-<img src="https://farm4.staticflickr.com/3940/14969817463_153fee6ceb_o.png" width="501" height="1228" alt="621">
+<img src="https://farm4.staticflickr.com/3940/14969817463_153fee6ceb_o.png" width="501" height="222" alt="621">
 
-<img src="https://farm6.staticflickr.com/5616/15587303391_13d0b9a649_o.png" width="501" height="1228" alt="622">
+<img src="https://farm6.staticflickr.com/5616/15587303391_13d0b9a649_o.png" width="501" height="222" alt="622">
 
-<img src="https://farm4.staticflickr.com/3956/15590804002_4b85871ff2_o.png" width="501" height="1228" alt="623">
+<img src="https://farm4.staticflickr.com/3956/15590804002_4b85871ff2_o.png" width="501" height="222" alt="623">
 
-<img src="https://farm4.staticflickr.com/3949/15587303341_69027b1619_o.png" width="501" height="1228" alt="624">
+<img src="https://farm4.staticflickr.com/3949/15587303341_69027b1619_o.png" width="501" height="222" alt="624">
 
 3.旅遊行程查詢作業<br>
-<img src="https://farm6.staticflickr.com/5604/15403964307_1761788466_o.png" width="501" height="1228" alt="631">
+<img src="https://farm6.staticflickr.com/5604/15403964307_1761788466_o.png" width="501" height="222" alt="631">
 
-<img src="https://farm4.staticflickr.com/3947/14969817323_079d4b7b4b_o.png" width="501" height="1228" alt="632">
+<img src="https://farm4.staticflickr.com/3947/14969817323_079d4b7b4b_o.png" width="501" height="222" alt="632">
 
-<img src="https://farm6.staticflickr.com/5607/15403964137_9475d9bbe8_o.png" width="501" height="1228" alt="633">
+<img src="https://farm6.staticflickr.com/5607/15403964137_9475d9bbe8_o.png" width="501" height="222" alt="633">
 
-<img src="https://farm4.staticflickr.com/3945/14969817213_b9f313a9ae_o.png" width="501" height="1228" alt="634">
+<img src="https://farm4.staticflickr.com/3945/14969817213_b9f313a9ae_o.png" width="501" height="222" alt="634">
 
 4.景點介紹影片查詢作業<br>
-<img src="https://farm6.staticflickr.com/5600/15589962055_f3c047012b_o.png" width="501" height="1228" alt="641">
+<img src="https://farm6.staticflickr.com/5600/15589962055_f3c047012b_o.png" width="501" height="222" alt="641">
 
-<img src="https://farm6.staticflickr.com/5597/15566279756_9a1a385469_o.png" width="501" height="1378" alt="642">
+<img src="https://farm6.staticflickr.com/5597/15566279756_9a1a385469_o.png" width="501" height="222" alt="642">
 
-<img src="https://farm4.staticflickr.com/3939/15590803812_60e921006f_o.png" width="501" height="1228" alt="643">
+<img src="https://farm4.staticflickr.com/3939/15590803812_60e921006f_o.png" width="501" height="222" alt="643">
 
-<img src="https://farm6.staticflickr.com/5606/15589961995_cb42d23c83_o.png" width="501" height="1378" alt="644">
+<img src="https://farm6.staticflickr.com/5606/15589961995_cb42d23c83_o.png" width="501" height="222" alt="644">
 
-<img src="https://farm4.staticflickr.com/3937/15403351059_297a072340_o.png" width="501" height="1378" alt="645">
+<img src="https://farm4.staticflickr.com/3937/15403351059_297a072340_o.png" width="501" height="222" alt="645">
 
-<img src="https://farm6.staticflickr.com/5605/15403964007_ebfb3e2c39_o.png" width="501" height="1378" alt="646">
+<img src="https://farm6.staticflickr.com/5605/15403964007_ebfb3e2c39_o.png" width="501" height="222" alt="646">
 
 5.景點介紹影片查詢作業<br>
-<img src="https://farm4.staticflickr.com/3935/15403350949_1f59366003_o.png" width="501" height="1228" alt="651">
+<img src="https://farm4.staticflickr.com/3935/15403350949_1f59366003_o.png" width="501" height="222" alt="651">
 
-<img src="https://farm4.staticflickr.com/3942/15403854118_85dae02028_o.png" width="501" height="1679" alt="652">
+<img src="https://farm4.staticflickr.com/3942/15403854118_85dae02028_o.png" width="501" height="222" alt="652">
 
-<img src="https://farm6.staticflickr.com/5610/15589961875_5eaf129919_o.png" width="501" height="1528" alt="653">
+<img src="https://farm6.staticflickr.com/5610/15589961875_5eaf129919_o.png" width="501" height="222" alt="653">
 
-<img src="https://farm6.staticflickr.com/5612/15589961885_40ecb0bc39_o.png" width="501" height="1528" alt="654">
+<img src="https://farm6.staticflickr.com/5612/15589961885_40ecb0bc39_o.png" width="501" height="222" alt="654">
 
-<img src="https://farm4.staticflickr.com/3938/14969228354_0ff09b998f_o.png" width="501" height="1378" alt="655">
+<img src="https://farm4.staticflickr.com/3938/14969228354_0ff09b998f_o.png" width="501" height="222" alt="655">
 6.景點介紹影片查詢作業<br>
-<img src="https://farm4.staticflickr.com/3932/15587302961_6d1872f446_o.png" width="501" height="1378" alt="661">
+<img src="https://farm4.staticflickr.com/3932/15587302961_6d1872f446_o.png" width="501" height="222" alt="661">
 
 <img src="https://farm4.staticflickr.com/3953/14969228294_05bf6a9201_o.png" width="501" height="222" alt="662">
 
-<img src="https://farm4.staticflickr.com/3932/15404361660_2301a2c0cb_o.png" width="501" height="1228" alt="663">
+<img src="https://farm4.staticflickr.com/3932/15404361660_2301a2c0cb_o.png" width="501" height="222" alt="663">
+
 
 
 三、使用案例之系統循序圖 (圖6.13 p170)<br>
