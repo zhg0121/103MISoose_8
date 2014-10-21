@@ -401,27 +401,27 @@
 註:屬性需加入visibility + data type 以及屬於哪種類別boundary entity controller<br>
 
 1.旅行社查詢作業概念 初步類別圖<br>
-<img src="https://farm6.staticflickr.com/5599/15404182760_8943f9c376_o.png" width="539" height="317" alt="51">
+<img src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/1422427_958996370781493_3110996738964494799_n.jpg?oh=45e7ee1922a5ca3d21493bd5741637a3&oe=54B750A3&__gda__=1425516765_588be5ee4d04ed6ea44be0c0f12ffe53" width="539" height="317" alt="51">
 
 2.價格比對查詢作業 初步類別圖<br>
-<img src="https://farm6.staticflickr.com/5611/15404178230_687a589a3c_o.png" width="514" height="223" alt="52">
+<img src="https://scontent-a-sjc.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10653331_958996374114826_1703807182386224318_n.jpg?oh=8d690c9b982f1af5f0e95cdbebd7ee34&oe=54E86A29" width="514" height="223" alt="52">
 
 3.旅遊行程查詢作業 初步類別圖<br>
-<img src="https://farm4.staticflickr.com/3932/15403179729_af650b5bb6_o.png" width="514" height="224" alt="53">
+<img src="https://scontent-a-sjc.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10653331_958996374114826_1703807182386224318_n.jpg?oh=8d690c9b982f1af5f0e95cdbebd7ee34&oe=54E86A29" width="514" height="224" alt="53">
 
 4.景點介紹影片查詢作業 初步類別圖<br>
-<img src="https://farm4.staticflickr.com/3951/15566102496_63fe4afcdc_o.png" width="501" height="222" alt="54">
+<img src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/544929_958996377448159_5499937259047528789_n.jpg?oh=57011e70830c0422165c64687bb901d1&oe=54ADEB6F&__gda__=1420751085_36c97d0dc2ed204b3cdab82aa5f07fa6" width="501" height="222" alt="54">
 
 5.客戶基本資料作業 初步類別圖<br>
-<img src="https://farm4.staticflickr.com/3955/14969634703_fddbcbd0b7_o.png" width="564" height="246" alt="55">
+<img src="https://scontent-b-sjc.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/1010389_958996384114825_8608408008096626978_n.jpg?oh=802be205cc0891ab1a0a8c7091696101&oe=54EAE2D5" width="564" height="246" alt="55">
 
 6.客戶意見留言系統 初步類別圖<br>
-<img src="https://farm6.staticflickr.com/5601/15403170069_6e03faaab8_o.png" width="510" height="294" alt="56">
+<img src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/10561691_958996367448160_1385349854874649593_n.jpg?oh=2429bca902515b1c894e606b82d85978&oe=54ECF77E&__gda__=1424573391_c83c83341b24808fe66176c593ef7c84" width="510" height="294" alt="56">
 
 
 系統的初步類別圖 (p151 圖5.30)<br>
 註:屬性需加入visibility + data type以及屬於哪種類別boundary entity controller<br>
-<img src="https://farm6.staticflickr.com/5609/15587122951_e27265fe02_o.png" width="1578" height="570" alt="57">
+<img src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/10704038_958996387448158_5568158150472534465_n.jpg?oh=31122b012f8e4799dc63a0bded0187f7&oe=54EEBEE1&__gda__=1425005451_12c35d4f52d87fe742569f5ad294d329" width="1578" height="570" alt="57">
 
 
 一、使用案例主要成功情節之英文名稱事件對應 (表6.5 p169）<br>
