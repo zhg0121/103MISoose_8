@@ -29,12 +29,12 @@
 
 利害關係人與目標
 內部人員
-	專案人員
-	程式開發者
-		測試人員
-	Boss
-外部人員
-	客戶(旅遊消費族群)
+<br>　　專案人員
+<br>　　　　程式開發者
+<br>　　　　測試人員
+
+<br>外部人員
+<br>　　客戶(旅遊消費族群)
 
 利害關係人目標表 (P.85)
 <table border="1" >
@@ -83,33 +83,46 @@
 2.能夠尋找興趣旅行社<br>
 3.能夠進行價格比對<br>
 4.能夠查詢旅遊行程<br>
-5.更加了解旅遊地點<br></td>
+5.更加了解旅遊地點<br>
+6.給予網站相關建議<br></td>
 
 <td>1.客戶基本資料作業<br>
 2.旅行社查詢作業<br>
 3.價格比對查詢作業<br>
 4.旅遊行程查詢作業<br>
-5.景點介紹影片查詢作業<br></td>
+5.景點介紹影片查詢作業<br>
+6.客戶意見留言系統<br></td>
 </tr>
 </table>
 
-個別使用案例的活動圖 (P.114)<br>
-<img src="https://farm4.staticflickr.com/3932/15272137627_670bfe1bdc_o.png" width="777" height="500" alt="1">
-
-<img src="https://farm4.staticflickr.com/3928/15272137577_9a17a8ab27_o.png" width="769" height="500" alt="2">
-
-<img src="https://farm3.staticflickr.com/2945/15272003680_40ba7e63b0_o.png" width="773" height="500" alt="3">
-
-<img src="https://farm4.staticflickr.com/3928/15272003670_2b23612448_o.png" width="774" height="572" alt="4">
-
 個別使用案例說明 (P.117)<br>
-<img src="https://farm6.staticflickr.com/5601/15514571202_9a6d5bb39b_o.png" width="567" height="571" alt="2-1">
-<img src="https://farm6.staticflickr.com/5599/15514971405_e939dafbc5_o.png" width="501" height="568" alt="2-2">
-<img src="https://farm4.staticflickr.com/3945/15514571062_44146b7d79_o.png" width="499" height="570" alt="2-3">
-<img src="https://farm3.staticflickr.com/2949/15328385577_a5ce6363c8_o.png" width="401" height="551" alt="2-4">
+<img src="https://farm6.staticflickr.com/5599/14968958034_0cd097c51d_o.png" width="506" height="541" alt="21">
+
+<img src="https://farm4.staticflickr.com/3939/14968948824_5d90d571a2_o.png" width="477" height="549" alt="22">
+
+<img src="https://farm6.staticflickr.com/5612/15589681705_54665809d7_o.png" width="473" height="529" alt="23">
+
+<img src="https://farm6.staticflickr.com/5602/15403683677_e13a1740ef_o.png" width="398" height="560" alt="24">
+
+<img src="https://farm6.staticflickr.com/5599/15587025701_d794baec24_o.png" width="399" height="457" alt="25">
+
+<img src="https://farm6.staticflickr.com/5600/15587025721_7e49d7633b_o.png" width="398" height="446" alt="26">
+
+個別使用案例的活動圖 (P.114)<br>
+<img src="https://farm4.staticflickr.com/3936/15566006656_dc99017495_o.png" width="514" height="389" alt="1">
+
+<img src="https://farm4.staticflickr.com/3934/15587025941_f31c0358ee_o.png" width="515" height="364" alt="2">
+
+<img src="https://farm6.staticflickr.com/5604/14969540033_933fe00038_o.png" width="513" height="389" alt="3">
+
+<img src="https://farm6.staticflickr.com/5603/15403683767_c9ca77a742_o.png" width="511" height="391" alt="4">
+
+<img src="https://farm4.staticflickr.com/3945/15403683717_8e4d495e1f_o.png" width="512" height="412" alt="5">
+
+<img src="https://farm4.staticflickr.com/3942/15404081360_290cf2eda2_o.png" width="513" height="388" alt="6">
 
 使用案例圖 (P.120)<br>
-<img src="https://farm3.staticflickr.com/2950/15511812581_b9e6e81617_o.png" width="870" height="509" alt="P120-2">
+<img src="https://farm6.staticflickr.com/5612/14969542193_aae7bfdbef_o.png" width="876" height="714" alt="P120-3">
 
 
 使用案例的名詞與概念類別列舉表 (P.129 表5.4)<br>
@@ -212,7 +225,7 @@
 
 	<tr>
 		<td>客戶</td>
-		<td>本系統需要從中記錄使用者所偏好的旅行社為何。。</td>
+		<td>本系統需要從中記錄使用者所偏好的旅行社為何。</td>
 		<td>是。</td>
 	</tr>
 
@@ -286,22 +299,131 @@
 	</tr>
 </table>
 
+5.客戶基本資料作業類別列舉表
+<table border="1">
+	<tr>
+		<td>名詞</td>
+		<td>原因</td>
+		<td>結果(是否為概念類別)</td>
+	</tr>
+
+	<tr>
+		<td>客戶</td>
+		<td>本系統需要從中記錄使用者所偏好的旅行社為何。</td>
+		<td>是。</td>
+	</tr>
+	
+	<tr>
+		<td>入口網站</td>
+		<td>提供使用者一個可以瀏覽著名旅行社最新消息之頁面。</td>
+		<td>是。</td>
+	</tr>
+	
+	<tr>
+		<td>客戶基本資料</td>
+		<td>為已登入之客戶，客戶也可從中進行基本資料修改並瀏覽歷程記錄</td>
+		<td>是。</td>
+	</tr>
+	
+	<tr>
+		<td>瀏覽紀錄</td>
+		<td>為客戶屬性</td>
+		<td>否。</td>
+	</tr>
+	
+	<tr>
+		<td>帳號</td>
+		<td>為客戶屬性</td>
+		<td>否。</td>
+	</tr>
+	
+	<tr>
+		<td>密碼</td>
+		<td>為客戶屬性</td>
+		<td>否。</td>
+	</tr>
+	
+	<tr>
+		<td>姓名</td>
+		<td>為客戶屬性</td>
+		<td>否。</td>
+	</tr>
+	
+	<tr>
+		<td>性別</td>
+		<td>為客戶屬性</td>
+		<td>否。</td>
+	</tr>
+	
+	<tr>
+		<td>信箱</td>
+		<td>為客戶屬性</td>
+		<td>否。</td>
+	</tr>
+</table>
+
+6.客戶意見留言系統類別列舉表
+<table border="1">
+	<tr>
+		<td>名詞</td>
+		<td>原因</td>
+		<td>結果(是否為概念類別)</td>
+	</tr>
+
+	<tr>
+		<td>客戶</td>
+		<td>本系統需要從中記錄已登入使用者所偏好的旅行社為何，並提供使用者一個可以提供網站意見的平台</td>
+		<td>是。</td>
+	</tr>
+	
+	<tr>
+		<td>留言板</td>
+		<td>本系統提供一個平台供客戶留言其想法</td>
+		<td>是。</td>
+	</tr>
+	
+	<tr>
+		<td>意見</td>
+		<td>為留言板屬性</td>
+		<td>否。</td>
+	</tr>
+	
+	<tr>
+		<td>客戶意見</td>
+		<td>同意見</td>
+		<td>否。</td>
+	</tr>
+	
+	<tr>
+		<td>規劃人員</td>
+		<td>管理客戶意見之資料庫，並根據其建議進行網站之改善</td>
+		<td>是。</td>
+	</tr>
+
+</table>
+
 使用案例的初步類別圖 (p137 圖5.13)<br>
 註:屬性需加入visibility + data type 以及屬於哪種類別boundary entity controller<br>
 
 1.旅行社查詢作業概念 初步類別圖<br>
-<img src="https://farm3.staticflickr.com/2947/15492128066_1183cb1bb8_o.png" width="590" height="315" alt="5-1">
+<img src="https://farm6.staticflickr.com/5599/15404182760_8943f9c376_o.png" width="539" height="317" alt="51">
 
 2.價格比對查詢作業 初步類別圖<br>
-<img src="https://farm4.staticflickr.com/3936/15514901062_b4e6f064dc_o.png" width="564" height="178" alt="5-2">
+<img src="https://farm6.staticflickr.com/5611/15404178230_687a589a3c_o.png" width="514" height="223" alt="52">
 
 3.旅遊行程查詢作業 初步類別圖<br>
-<img src="https://farm4.staticflickr.com/3956/15328714927_7e0b442f03_o.png" width="562" height="170" alt="5-3">
+<img src="https://farm4.staticflickr.com/3932/15403179729_af650b5bb6_o.png" width="514" height="224" alt="53">
 
 4.景點介紹影片查詢作業 初步類別圖<br>
-<img src="https://farm4.staticflickr.com/3952/15492128166_134b195098_o.png" width="572" height="170" alt="5-4">
+<img src="https://farm4.staticflickr.com/3951/15566102496_63fe4afcdc_o.png" width="501" height="222" alt="54">
+
+5.客戶基本資料作業 初步類別圖<br>
+<img src="https://farm4.staticflickr.com/3955/14969634703_fddbcbd0b7_o.png" width="564" height="246" alt="55">
+
+6.客戶意見留言系統 初步類別圖<br>
+<img src="https://farm6.staticflickr.com/5601/15403170069_6e03faaab8_o.png" width="510" height="294" alt="56">
+
 
 系統的初步類別圖 (p151 圖5.30)<br>
 註:屬性需加入visibility + data type以及屬於哪種類別boundary entity controller<br>
-<img src="https://farm4.staticflickr.com/3940/15328432639_a6a7902847_o.png" width="633" height="255" alt="5-5">
-
+<img src="https://farm6.staticflickr.com/5609/15587122951_e27265fe02_o.png" width="1578" height="570" alt="57">
