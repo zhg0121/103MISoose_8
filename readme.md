@@ -424,23 +424,16 @@
 <img src="https://farm4.staticflickr.com/3950/15427380879_f4a11143a5_o.png" width="2884" height="830" alt="系統初步類別圖">
 
 一、使用案例主要成功情節之英文名稱事件對應 (表6.5 p169）<br>
-
-1.旅行社查詢作業<br>
 <img src="https://farm6.staticflickr.com/5614/15614032695_8dcd00e05b_o.png" width="560" height="459" alt="61">
 
-2.價格比對查詢作業<br>
 <img src="https://farm4.staticflickr.com/3956/14993880263_aeed1e3434_o.png" width="563" height="513" alt="62">
 
-3.旅遊行程查詢作業<br>
 <img src="https://farm4.staticflickr.com/3950/15614859802_a61c7f7d82_o.png" width="565" height="487" alt="63">
 
-4.景點介紹影片查詢作業<br>
 <img src="https://farm6.staticflickr.com/5603/15428024977_a64bbb91c4_o.png" width="564" height="560" alt="64">
 
-5. 客戶基本資料作業<br>
 <img src="https://farm4.staticflickr.com/3945/15614032625_9a160e9611_o.png" width="562" height="466" alt="65">
 
-6. 客戶意見留言作業<br>
 <img src="https://farm6.staticflickr.com/5611/15427380459_3b6f76d3ca_o.png" width="563" height="417" alt="66">
 
 二、每個名稱事件之合約 (表6.6 p169)<br>
