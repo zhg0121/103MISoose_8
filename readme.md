@@ -16,9 +16,10 @@
 
 功能規格
 		<br>　　旅行社簡介
-		<br>　　景點查詢
-		<br>　　旅遊專案
-		<br>　　客戶資料管理 <br>
+		<br>　　旅遊篩選與查詢
+		<br>　　留言板
+		<br>　　客戶資料管理
+		<br>　　客戶意見留言
 		
 非功能規格
 	<br>可用性：介面的流程度掌握
@@ -50,6 +51,8 @@
 ．能配合預算，找出合適的旅行社<br>
 ．獲取旅行社旅遊資訊<br>
 ．能夠正確查詢旅遊地點影片介紹<br>
+．利用留言板提供意見與想法<br>
+
 </td>
 </tr>
 
@@ -100,17 +103,17 @@
 </table>
 
 個別使用案例說明 (P.117)<br>
-<img src="https://farm6.staticflickr.com/5599/14968958034_0cd097c51d_o.png" width="506" height="541" alt="21">
+<img src="https://farm4.staticflickr.com/3952/15514932798_884fa71d6a_o.png" width="490" height="581" alt="11">
 
-<img src="https://farm4.staticflickr.com/3939/14968948824_5d90d571a2_o.png" width="477" height="549" alt="22">
+<img src="https://farm6.staticflickr.com/5609/15676595076_7ecb8e1b9d_o.png" width="491" height="585" alt="12">
 
-<img src="https://farm6.staticflickr.com/5612/15589681705_54665809d7_o.png" width="473" height="529" alt="23">
+<img src="https://farm4.staticflickr.com/3939/15700312205_ca4cf6c775_o.png" width="491" height="561" alt="13">
 
-<img src="https://farm6.staticflickr.com/5602/15403683677_e13a1740ef_o.png" width="398" height="560" alt="24">
+<img src="https://farm8.staticflickr.com/7472/15676595226_66ed79325b_o.png" width="492" height="731" alt="14">
 
-<img src="https://farm6.staticflickr.com/5599/15587025701_d794baec24_o.png" width="399" height="457" alt="25">
+<img src="https://farm8.staticflickr.com/7483/15698422271_6ac5e0b170_o.png" width="492" height="702" alt="15">
 
-<img src="https://farm6.staticflickr.com/5600/15587025721_7e49d7633b_o.png" width="398" height="446" alt="26">
+<img src="https://farm8.staticflickr.com/7514/15515126607_ab9dd20017_o.png" width="490" height="527" alt="16">
 
 個別使用案例的活動圖 (P.114)<br>
 <img src="https://farm4.staticflickr.com/3936/15566006656_dc99017495_o.png" width="514" height="389" alt="1">
@@ -139,30 +142,35 @@
 	</tr>
 	
 	<tr>
-		<td>客戶</td>
+		<td>客戶<br>
+		(Client)</td>
 		<td>本系統需要從中記錄使用者所偏好的旅行社為何。</td>
 		<td>是。</td>
 	</tr>
 	<tr>
-		<td>入口網站</td>
+		<td>入口網站<br>
+		(Portal)</td>
 		<td>提供使用者一個可以瀏覽著名旅行社最新消息之頁面。</td>
 		<td>是。</td>
 	</tr>
 
 	<tr>
-		<td>旅遊社資訊</td>
+		<td>旅遊社資訊<br>
+		(travelInfo)</td>
 		<td>為搜尋頁面屬性。</td>
 		<td>否。</td>
 	</tr>
 
 	<tr>
-		<td>搜尋列</td>
+		<td>搜尋列<br>
+		(searchBar)</td>
 		<td>為搜尋頁面屬性。</td>
 		<td>否。</td>
 	</tr>
 
 	<tr>
-		<td>規劃人員</td>
+		<td>規劃人員<br>
+		(Planner)</td>
 		<td>本系統需要規劃人員。</td>
 		<td>否。</td>
 	</tr>
@@ -183,7 +191,8 @@
 	</tr>
 
 	<tr>
-		<td>客戶</td>
+		<td>客戶<br>
+		(ClientData)</td>
 		<td>本系統需要從中記錄使用者所偏好的旅行社為何。</td>
 		<td>是。</td>
 	</tr>
@@ -195,25 +204,29 @@
 	</tr>
 
 	<tr>
-		<td>搜尋頁面</td>
+		<td>搜尋頁面<br>
+		(SearchPrice)</td>
 		<td>提供使用者可進行資料初步的行程篩選，以求所需的相關資訊。</td>
 		<td>是。</td>
 	</tr>
 
 	<tr>
-		<td>旅行地點</td>
+		<td>旅行地點<br>
+		(travelPlace)</td>
 		<td>為搜尋頁面屬性。</td>
 		<td>否。</td>
 	</tr>
 
 	<tr>
-		<td>旅遊天數</td>
+		<td>旅遊天數<br>
+		(travelDay)</td>
 		<td>為搜尋頁面屬性。</td>
 		<td>否。</td>
 	</tr>
 
 	<tr>
-		<td>查詢結果</td>
+		<td>查詢結果<br>
+		(result)</td>
 		<td>為搜尋頁面屬性。</td>
 		<td>否。</td>
 	</tr>
@@ -228,7 +241,8 @@
 	</tr>
 
 	<tr>
-		<td>客戶</td>
+		<td>客戶<br>
+		(ClientData)</td>
 		<td>本系統需要從中記錄使用者所偏好的旅行社為何。</td>
 		<td>是。</td>
 	</tr>
@@ -240,25 +254,29 @@
 	</tr>
 
 	<tr>
-		<td>搜尋頁面</td>
+		<td>搜尋頁面<br>
+		(SearchTrip)</td>
 		<td>提供使用者可進行資料初步的行程篩選，以求所需的相關資訊。</td>
 		<td>是。</td>
 	</tr>
 
 	<tr>
-		<td>旅行地點</td>
+		<td>旅行地點<br>
+		(travelLocation)</td>
 		<td>為搜尋頁面屬性。</td>
 		<td>否。</td>
 	</tr>
 
 	<tr>
-		<td>旅遊天數</td>
+		<td>旅遊天數<br>
+		(travelDays)</td>
 		<td>為搜尋頁面屬性。</td>
 		<td>否。</td>
 	</tr>
 
 	<tr>
-		<td>查詢結果</td>
+		<td>查詢結果<br>
+		(result)</td>
 		<td>為搜尋頁面屬性。</td>
 		<td>否。</td>
 	</tr>
@@ -273,31 +291,36 @@
 	</tr>
 
 	<tr>
-		<td>客戶</td>
+		<td>客戶<br>
+		(ClientData)</td>
 		<td>本系統需要從中記錄使用者所偏好的旅行社為何。</td>
 		<td>是。</td>
 	</tr>
 	
 	<tr>
-		<td>旅遊地點<br>介紹畫面<br></td>
+		<td>旅遊地點介紹畫面<br>
+		(TravelIntroducePage)</td>
 		<td>本系統需要介紹客人預想旅遊地點資訊，以利客戶更加了解相關資訊。</td>
 		<td>是。</td>
 	</tr>
 	
 	<tr>
-		<td>介紹地點</td>
+		<td>介紹地點<br>
+		(introduce)</td>
 		<td>為旅遊地點介紹屬性。</td>
 		<td>否。</td>
 	</tr>
 	
 	<tr>
-		<td>影片網頁</td>
+		<td>影片網頁<br>
+		(filmPage)</td>
 		<td>為旅遊地點介紹屬性。</td>
 		<td>否。</td>
 	</tr>
 
 	<tr>
-		<td>youtube搜尋方式</td>
+		<td>youtube搜尋方式<br>
+		(youtubeBar)</td>
 		<td>為旅遊地點介紹屬性。</td>
 		<td>否。</td>
 	</tr>
@@ -312,55 +335,64 @@
 	</tr>
 
 	<tr>
-		<td>客戶</td>
+		<td>客戶<br>
+		(Client)</td>
 		<td>本系統需要從中記錄使用者所偏好的旅行社為何。</td>
 		<td>是。</td>
 	</tr>
 	
 	<tr>
-		<td>入口網站</td>
+		<td>入口網站<br>
+		(Portal)</td>
 		<td>提供使用者一個可以瀏覽著名旅行社最新消息之頁面。</td>
 		<td>是。</td>
 	</tr>
 	
 	<tr>
-		<td>客戶基本資料</td>
+		<td>客戶基本資料<br>
+		(ClientData)</td>
 		<td>為已登入之客戶，客戶也可從中進行基本資料修改並瀏覽歷程記錄</td>
 		<td>是。</td>
 	</tr>
 	
 	<tr>
-		<td>瀏覽紀錄</td>
+		<td>瀏覽紀錄<br>
+		(searchRec)</td>
 		<td>為客戶屬性</td>
 		<td>否。</td>
 	</tr>
 	
 	<tr>
-		<td>帳號</td>
+		<td>帳號<br>
+		(account)</td>
 		<td>為客戶屬性</td>
 		<td>否。</td>
 	</tr>
 	
 	<tr>
-		<td>密碼</td>
+		<td>密碼<br>
+		(password)</td>
 		<td>為客戶屬性</td>
 		<td>否。</td>
 	</tr>
 	
 	<tr>
-		<td>姓名</td>
+		<td>姓名<br>
+		(name)</td>
 		<td>為客戶屬性</td>
 		<td>否。</td>
 	</tr>
 	
 	<tr>
-		<td>性別</td>
+		<td>性別<br>
+		(sex)</td>
 		<td>為客戶屬性</td>
 		<td>否。</td>
 	</tr>
 	
 	<tr>
-		<td>信箱</td>
+		<td>信箱<br>
+		(mail)</td>
 		<td>為客戶屬性</td>
 		<td>否。</td>
 	</tr>
@@ -375,19 +407,22 @@
 	</tr>
 
 	<tr>
-		<td>客戶</td>
+		<td>客戶<br>
+		(ClientData)</td>
 		<td>本系統需要從中記錄已登入使用者所偏好的旅行社為何，並提供使用者一個可以提供網站意見的平台</td>
 		<td>是。</td>
 	</tr>
 	
 	<tr>
-		<td>留言板</td>
+		<td>留言板<br>
+		(MsgBroad)</td>
 		<td>本系統提供一個平台供客戶留言其想法</td>
 		<td>是。</td>
 	</tr>
 	
 	<tr>
-		<td>意見</td>
+		<td>意見<br>
+		(Comments)</td>
 		<td>為留言板屬性</td>
 		<td>否。</td>
 	</tr>
@@ -399,7 +434,8 @@
 	</tr>
 	
 	<tr>
-		<td>規劃人員</td>
+		<td>規劃人員<br>
+		(Planner)</td>
 		<td>管理客戶意見之資料庫，並根據其建議進行網站之改善</td>
 		<td>是。</td>
 	</tr>
@@ -410,79 +446,76 @@
 註:屬性需加入visibility + data type 以及屬於哪種類別boundary entity controller<br>
 
 1.旅行社查詢作業概念 初步類別圖<br>
-<img src="https://farm4.staticflickr.com/3955/15428438320_0ba1a299e8_o.png" width="568" height="392" alt="1.旅行社查詢作業概念_初步類別圖">
+<img src="https://farm8.staticflickr.com/7572/15081063713_8d5f440d6e_o.png" width="686" height="393" alt="1.旅行社查詢作業概念_初步類別圖">
 
 2.價格比對查詢作業 初步類別圖<br>
-<img src="https://farm6.staticflickr.com/5599/15590357836_d4ce40048c_o.png" width="1098" height="277" alt="2.價格比對查詢作業_初步類別圖">
+<img src="https://farm4.staticflickr.com/3946/15514535749_e942262a0b_o.png" width="1247" height="279" alt="2.價格比對查詢作業_初步類別圖">
 
 3.旅遊行程查詢作業 初步類別圖<br>
-<img src="https://farm4.staticflickr.com/3947/14993880563_38c61cfffe_o.png" width="1225" height="277" alt="3.旅遊行程查詢作業_初步類別圖">
+<img src="https://farm6.staticflickr.com/5613/15701998472_6b3cc15e59_o.png" width="1379" height="279" alt="3.旅遊行程查詢作業_初步類別圖">
 
 4.景點介紹影片查詢作業 初步類別圖<br>
-<img src="https://farm6.staticflickr.com/5603/15428438380_02ef279024_o.png" width="1447" height="275" alt="4.景點介紹影片查詢作業_初步類別圖">
+<img src="https://farm4.staticflickr.com/3950/15701998432_aab5e64e1b_o.png" width="1559" height="275" alt="4.景點介紹影片查詢作業_初步類別圖">
 
 5.客戶基本資料作業 初步類別圖<br>
-<img src="https://farm6.staticflickr.com/5611/15611351011_02d9d81ed9_o.png" width="1223" height="479" alt="5.客戶基本資料作業_初步類別圖">
+<img src="https://farm8.staticflickr.com/7479/15515590410_906765a850_o.png" width="1350" height="480" alt="5.客戶基本資料作業_初步類別圖">
 
 6.客戶意見留言系統 初步類別圖<br>
-<img src="https://farm6.staticflickr.com/5609/15427912468_a3fb15a00d_o.png" width="631" height="352" alt="6.客戶意見留言系統 初步類別圖">
-
+<img src="https://farm4.staticflickr.com/3943/15698504701_dd281d0e7d_o.png" width="1019" height="275" alt="6.客戶意見留言系統 初步類別圖">
 
 系統的初步類別圖 (p151 圖5.30)<br>
 註:屬性需加入visibility + data type以及屬於哪種類別boundary entity controller<br>
-<img src="https://farm4.staticflickr.com/3950/15427380879_f4a11143a5_o.png" width="2884" height="830" alt="系統初步類別圖">
+<img src="https://farm8.staticflickr.com/7550/15676768836_cfdf7be34b_o.png" width="3147" height="954" alt="系統初步類別圖">
+
+<img src="https://farm8.staticflickr.com/7461/15081151583_1a26e7f843_o.png" width="2020" height="1306" alt="系統初步類別圖_專業版">
 
 一、使用案例主要成功情節之英文名稱事件對應 (表6.5 p169）<br>
-<img src="https://farm6.staticflickr.com/5614/15614032695_8dcd00e05b_o.png" width="560" height="459" alt="61">
+<a href="https://www.flickr.com/photos/126420026@N07/15081249943" title="61 by 辜 小, on Flickr"><img src="https://farm8.staticflickr.com/7567/15081249943_4ed0c8b01c_o.png" width="655" height="533" alt="61"></a>
 
-<img src="https://farm4.staticflickr.com/3956/14993880263_aeed1e3434_o.png" width="563" height="513" alt="62">
+<a href="https://www.flickr.com/photos/126420026@N07/15080642264" title="62 by 辜 小, on Flickr"><img src="https://farm4.staticflickr.com/3941/15080642264_b85488ed4b_o.png" width="651" height="589" alt="62"></a>
 
-<img src="https://farm4.staticflickr.com/3950/15614859802_a61c7f7d82_o.png" width="565" height="487" alt="63">
+<a href="https://www.flickr.com/photos/126420026@N07/15515778610" title="63 by 辜 小, on Flickr"><img src="https://farm4.staticflickr.com/3947/15515778610_b052ec12bd_o.png" width="653" height="563" alt="63"></a>
 
-<img src="https://farm6.staticflickr.com/5603/15428024977_a64bbb91c4_o.png" width="564" height="560" alt="64">
+<a href="https://www.flickr.com/photos/126420026@N07/15700583735" title="64 by 辜 小, on Flickr"><img src="https://farm8.staticflickr.com/7560/15700583735_39400eb95f_o.png" width="651" height="647" alt="64"></a>
 
-<img src="https://farm4.staticflickr.com/3945/15614032625_9a160e9611_o.png" width="562" height="466" alt="65">
+<a href="https://www.flickr.com/photos/126420026@N07/15676870006" title="65 by 辜 小, on Flickr"><img src="https://farm6.staticflickr.com/5613/15676870006_f4ccfd57e9_o.png" width="651" height="537" alt="65"></a>
 
-<img src="https://farm6.staticflickr.com/5611/15427380459_3b6f76d3ca_o.png" width="563" height="417" alt="66">
+<a href="https://www.flickr.com/photos/126420026@N07/15515201038" title="66 by 辜 小, on Flickr"><img src="https://farm4.staticflickr.com/3949/15515201038_9bded24bda_o.png" width="651" height="487" alt="66"></a>
 
 二、每個名稱事件之合約 (表6.6 p169)<br>
 1.旅行社查詢作業<br>
-<img src="https://farm4.staticflickr.com/3934/15612843731_6ce8de05ce_o.png" width="652" height="376" alt="611">
+<img src="https://farm8.staticflickr.com/7479/15514723069_42a24057d1_o.png" width="655" height="381" alt="611">
 
-<img src="https://farm4.staticflickr.com/3952/15429397138_97e939b271_o.png" width="649" height="403" alt="612">
+<img src="https://farm8.staticflickr.com/7577/15515398467_718cfbba3d_o.png" width="657" height="411" alt="612">
 
 2.價格比對查詢作業<br>
-<img src="https://farm4.staticflickr.com/3934/15429931050_e0769b4792_o.png" width="649" height="430" alt="621">
+<img src="https://farm4.staticflickr.com/3938/15702187272_6f5a8841f6_o.png" width="659" height="461" alt="621">
 
-<img src="https://farm4.staticflickr.com/3956/15429931040_bd765b339e_o.png" width="649" height="431" alt="622">
+<img src="https://farm6.staticflickr.com/5603/15702187242_2f4cb2d88e_o.png" width="655" height="461" alt="622">
 
 3.旅遊行程查詢作業<br>
-<img src="https://farm4.staticflickr.com/3934/14994764114_2c080f6fd6_o.png" width="650" height="431" alt="631">
+<img src="https://farm6.staticflickr.com/5607/15698692321_de5ebdf691_o.png" width="661" height="463" alt="631">
 
-<img src="https://farm6.staticflickr.com/5600/14994764024_14382dc974_o.png" width="650" height="432" alt="632">
+<img src="https://farm6.staticflickr.com/5604/15515778360_3fae9d353c_o.png" width="653" height="491" alt="632">
 
 4.景點介紹影片查詢作業<br>
-<img src="https://farm6.staticflickr.com/5603/15429930970_1dd99e0173_o.png" width="650" height="457" alt="641">
+<img src="https://farm6.staticflickr.com/5608/15698692211_d4d7252e97_o.png" width="653" height="461" alt="641">
 
-<img src="https://farm6.staticflickr.com/5605/15428873689_bc2f7d878f_o.png" width="650" height="204" alt="642">
+<img src="https://farm6.staticflickr.com/5610/15080641844_fb68fdb18e_o.png" width="653" height="239" alt="642">
 
-<img src="https://farm4.staticflickr.com/3952/15612843541_51bbf34c5c_o.png" width="648" height="484" alt="643">
+<img src="https://farm8.staticflickr.com/7503/15515201358_061278fb25_o.png" width="653" height="515" alt="643">
 
-<img src="https://farm4.staticflickr.com/3939/15429396958_8cf26a60c8_o.png" width="649" height="231" alt="644">
+<img src="https://farm8.staticflickr.com/7564/15700584055_5ebb749dde_o.png" width="653" height="237" alt="644">
 
 5.景點介紹影片查詢作業<br>
-<img src="https://farm4.staticflickr.com/3933/15429397318_58477aac1f_o.png" width="651" height="511" alt="651">
+<img src="https://farm8.staticflickr.com/7581/15515201268_9c7ecb7d35_o.png" width="655" height="541" alt="651">
 
-<img src="https://farm6.staticflickr.com/5598/15429931180_1cd01eb6e4_o.png" width="650" height="260" alt="652">
+<img src="https://farm8.staticflickr.com/7562/15700584005_50cbf2077e_o.png" width="653" height="265" alt="652">
 
-<img src="https://farm4.staticflickr.com/3955/14995365973_89548cfafc_o.png" width="648" height="484" alt="653">
+<img src="https://farm6.staticflickr.com/5614/15702187682_2347f0849a_o.png" width="657" height="491" alt="653">
 
 6.景點介紹影片查詢作業<br>
-<img src="https://farm6.staticflickr.com/5615/14994764274_22d294f50c_o.png" width="649" height="431" alt="661">
-
-<img src="https://farm6.staticflickr.com/5604/14994764224_c873d72253_o.png" width="648" height="205" alt="662">
-
-
+<img src="https://farm4.staticflickr.com/3947/15515778780_c681a6ba0b_o.png" width="655" height="657" alt="661">
 
 三、使用案例之系統循序圖 (圖6.13 p170)<br>
 1.旅行社查詢作業<br>
