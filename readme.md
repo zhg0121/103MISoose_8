@@ -10,28 +10,25 @@
 0124096 林慶龍
 ##
 ## 專題題目： ##
-基本簡介
+壹、基本簡介
 	<br>　　本旅遊系統將各旅行社的旅遊範圍限定為國內，藉由比較各個不同旅行社同一旅遊地點之差異及費用，並將相關旅館、行程等做出比較，以供顧客做出最合適的決定。而在需求規格中，提供使用者透過此一系統得知各旅社的優惠專案其價格差異、著名行程選擇，節省搜尋成本，提升效率。
 
-定義需求與需求規格
-	<br>　　提供使用者透過此一系統得知各旅社的優惠專案其價格、配套措施等差異，節省搜尋成本，提升效率。
-
-功能規格
+一、功能規格
 		<br>　　旅行社簡介
 		<br>　　旅遊篩選與查詢
 		<br>　　留言板
 		<br>　　客戶資料管理
 		<br>　　客戶意見留言
 		
-非功能規格
-	<br>可用性：介面的流程度掌握
-	<br>可靠性：系統的有效及修復（ｄｅｂｕｇ）
-	<br>績效性：提供伺服器處理效率
-	<br>安全性：透過市場上著名防護軟體，提供基本的安全防護措施
+二、非功能規格
+	<br>　　可用性：介面的流程度掌握
+	<br>　　可靠性：系統的有效及修復（ｄｅｂｕｇ）
+	<br>　　績效性：提供伺服器處理效率
+	<br>　　安全性：透過市場上著名防護軟體，提供基本的安全防護措施
 
 
-利害關係人與目標
-內部人員
+三、利害關係人與目標
+<br>內部人員
 <br>　　專案人員
 <br>　　　　程式開發者
 <br>　　　　測試人員
@@ -39,7 +36,7 @@
 <br>外部人員
 <br>　　客戶(旅遊消費族群)
 
-利害關係人目標表 (P.85)
+四、利害關係人目標表 (P.85)
 <table border="1" >
 <tr>
 <th>利害關係人 (參與者)</th>
@@ -77,7 +74,7 @@
 </table>
 
 
-確認事件與使用案例 (P.87)
+五、確認事件與使用案例 (P.87)
 
 <table border="1" >
 <tr>
@@ -104,7 +101,8 @@
 </tr>
 </table>
 
-個別使用案例說明 (P.117)<br>
+貳、個別使用案例<br>
+一、個別使用案例說明 (P.117)<br>
 <img src="https://farm4.staticflickr.com/3952/15514932798_884fa71d6a_o.png" width="490" height="581" alt="11">
 
 <img src="https://farm6.staticflickr.com/5609/15676595076_7ecb8e1b9d_o.png" width="491" height="585" alt="12">
@@ -117,7 +115,7 @@
 
 <img src="https://farm8.staticflickr.com/7514/15515126607_ab9dd20017_o.png" width="490" height="527" alt="16">
 
-個別使用案例的活動圖 (P.114)<br>
+二、個別使用案例的活動圖 (P.114)<br>
 <img src="https://farm4.staticflickr.com/3936/15566006656_dc99017495_o.png" width="514" height="389" alt="1">
 
 <img src="https://farm4.staticflickr.com/3934/15587025941_f31c0358ee_o.png" width="515" height="364" alt="2">
@@ -130,11 +128,11 @@
 
 <img src="https://farm4.staticflickr.com/3942/15404081360_290cf2eda2_o.png" width="513" height="388" alt="6">
 
-使用案例圖 (P.120)<br>
+三、使用案例圖 (P.120)<br>
 <img src="https://scontent-a-sjc.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/10689910_958995600781570_5584691236118006573_n.jpg?oh=1dc82edeb000545994b8c51d436ed29f&oe=54EE6EEC" width="876" height="714" alt="P120-3">
 
 
-使用案例的名詞與概念類別列舉表 (P.129 表5.4)<br>
+四、使用案例的名詞與概念類別列舉表 (P.129 表5.4)<br>
 1.旅行社查詢作業概念 類別列舉表<br>
 <table border="1">
 	<tr>
@@ -444,7 +442,7 @@
 
 </table>
 
-使用案例的初步類別圖 (p137 圖5.13)<br>
+五、使用案例的初步類別圖 (p137 圖5.13)<br>
 註:屬性需加入visibility + data type 以及屬於哪種類別boundary entity controller<br>
 
 1.旅行社查詢作業概念 初步類別圖<br>
@@ -465,12 +463,13 @@
 6.客戶意見留言系統 初步類別圖<br>
 <img src="https://farm4.staticflickr.com/3943/15698504701_dd281d0e7d_o.png" width="1019" height="275" alt="6.客戶意見留言系統 初步類別圖">
 
-系統的初步類別圖 (p151 圖5.30)<br>
+六、系統的初步類別圖 (p151 圖5.30)<br>
 註:屬性需加入visibility + data type以及屬於哪種類別boundary entity controller<br>
 <img src="https://farm8.staticflickr.com/7550/15676768836_cfdf7be34b_o.png" width="3147" height="954" alt="系統初步類別圖">
 
 <img src="https://farm8.staticflickr.com/7461/15081151583_1a26e7f843_o.png" width="2020" height="1306" alt="系統初步類別圖_專業版">
 
+參、個別使用案例文件<br>
 一、使用案例主要成功情節之英文名稱事件對應 (表6.5 p169）<br>
 <a href="https://www.flickr.com/photos/126420026@N07/15081249943" title="61 by 辜 小, on Flickr"><img src="https://farm8.staticflickr.com/7567/15081249943_4ed0c8b01c_o.png" width="655" height="533" alt="61"></a>
 
