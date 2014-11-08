@@ -442,25 +442,23 @@
 <img src="https://farm8.staticflickr.com/7572/15081063713_8d5f440d6e_o.png" width="686" height="393" alt="1.旅行社查詢作業概念_初步類別圖">
 
 2.價格比對查詢作業 初步類別圖<br>
-<img src="https://farm4.staticflickr.com/3946/15514535749_e942262a0b_o.png" width="1247" height="279" alt="2.價格比對查詢作業_初步類別圖">
+<img src="https://farm9.staticflickr.com/8633/15554321129_88e826bf3d_o.png" width="1399" height="279" alt="2.價格比對查詢作業_初步類別圖">
 
 3.旅遊行程查詢作業 初步類別圖<br>
-<img src="https://farm6.staticflickr.com/5613/15701998472_6b3cc15e59_o.png" width="1379" height="279" alt="3.旅遊行程查詢作業_初步類別圖">
+<img src="https://farm8.staticflickr.com/7555/15741740982_bd5c79f63e_o.png" width="1420" height="279" alt="3.旅遊行程查詢作業_初步類別圖">
 
 4.景點介紹影片查詢作業 初步類別圖<br>
-<img src="https://farm4.staticflickr.com/3950/15701998432_aab5e64e1b_o.png" width="1559" height="275" alt="4.景點介紹影片查詢作業_初步類別圖">
+<img src="https://farm8.staticflickr.com/7519/15554755628_5fc8193b77_o.png" width="1848" height="275" alt="4.景點介紹影片查詢作業_初步類別圖">
 
 5.客戶基本資料作業 初步類別圖<br>
-<img src="https://farm8.staticflickr.com/7479/15515590410_906765a850_o.png" width="1350" height="480" alt="5.客戶基本資料作業_初步類別圖">
+<img src="https://farm8.staticflickr.com/7493/15555382830_a826846c08_o.png" width="1524" height="550" alt="5.客戶基本資料作業_初步類別圖">
 
 6.客戶意見留言系統 初步類別圖<br>
-<img src="https://farm4.staticflickr.com/3943/15698504701_dd281d0e7d_o.png" width="1019" height="275" alt="6.客戶意見留言系統 初步類別圖">
+<img src="https://farm8.staticflickr.com/7580/15120804093_182ef89709_o.png" width="1140" height="275" alt="6.客戶意見留言系統 初步類別圖">
 
 六、系統的初步類別圖 (p151 圖5.30)<br>
 註:屬性需加入visibility + data type以及屬於哪種類別boundary entity controller<br>
-<img src="https://farm8.staticflickr.com/7550/15676768836_cfdf7be34b_o.png" width="3147" height="954" alt="系統初步類別圖">
-
-<img src="https://farm8.staticflickr.com/7461/15081151583_1a26e7f843_o.png" width="2020" height="1306" alt="系統初步類別圖_專業版">
+<img src="https://farm8.staticflickr.com/7523/15716484646_8a6ab5ed1e_o.png" width="2320" height="1306" alt="系統初步類別圖_專業版">
 
 參、個別使用案例文件<br>
 一、使用案例主要成功情節之英文名稱事件對應 (表6.5 p169）<br>
