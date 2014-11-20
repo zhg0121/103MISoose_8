@@ -439,40 +439,40 @@
 註:屬性需加入visibility + data type 以及屬於哪種類別boundary entity controller<br>
 
 1.旅行社查詢作業概念 初步類別圖<br>
-<img src="https://farm8.staticflickr.com/7572/15081063713_8d5f440d6e_o.png" width="686" height="393" alt="1.旅行社查詢作業概念_初步類別圖">
+<img src="https://farm8.staticflickr.com/7527/15835388535_099625affa_o.png" width="1100" height="238" alt="1.旅行社查詢作業概念_初步類別圖">
 
 2.價格比對查詢作業 初步類別圖<br>
-<img src="https://farm9.staticflickr.com/8633/15554321129_88e826bf3d_o.png" width="1399" height="279" alt="2.價格比對查詢作業_初步類別圖">
+<img src="https://farm6.staticflickr.com/5612/15649582869_9d9caf2743_o.png" width="1566" height="279" alt="2.價格比對查詢作業_初步類別圖">
 
 3.旅遊行程查詢作業 初步類別圖<br>
-<img src="https://farm8.staticflickr.com/7555/15741740982_bd5c79f63e_o.png" width="1420" height="279" alt="3.旅遊行程查詢作業_初步類別圖">
+<img src="https://farm8.staticflickr.com/7465/15835388495_4e180cf9c3_o.png" width="1458" height="279" alt="3.旅遊行程查詢作業_初步類別圖">
 
 4.景點介紹影片查詢作業 初步類別圖<br>
-<img src="https://farm8.staticflickr.com/7519/15554755628_5fc8193b77_o.png" width="1848" height="275" alt="4.景點介紹影片查詢作業_初步類別圖">
+<img src="https://farm9.staticflickr.com/8678/15215966383_63be73e89e_o.png" width="1849" height="276" alt="4.景點介紹影片查詢作業_初步類別圖">
 
 5.客戶基本資料作業 初步類別圖<br>
-<img src="https://farm8.staticflickr.com/7493/15555382830_a826846c08_o.png" width="1524" height="550" alt="5.客戶基本資料作業_初步類別圖">
+<img src="https://farm8.staticflickr.com/7501/15215966333_1093e4f6a9_o.png" width="1151" height="553" alt="5.客戶基本資料作業_初步類別圖_2版">
 
 6.客戶意見留言系統 初步類別圖<br>
-<img src="https://farm8.staticflickr.com/7580/15120804093_182ef89709_o.png" width="1140" height="275" alt="6.客戶意見留言系統 初步類別圖">
+<img src="https://farm8.staticflickr.com/7464/15649961568_a89dd7d267_o.png" width="1132" height="275" alt="6.客戶意見留言系統 初步類別圖">
 
 六、系統的初步類別圖 (p151 圖5.30)<br>
 註:屬性需加入visibility + data type以及屬於哪種類別boundary entity controller<br>
-<img src="https://farm8.staticflickr.com/7523/15716484646_8a6ab5ed1e_o.png" width="2320" height="1306" alt="系統初步類別圖_專業版">
+<img src="https://farm6.staticflickr.com/5608/15833525981_9f7b1d8b72_o.png" width="2337" height="1311" alt="系統初步類別圖_專業版">
 
 參、個別使用案例文件<br>
 一、使用案例主要成功情節之英文名稱事件對應 (表6.5 p169）<br>
-<a href="https://www.flickr.com/photos/126420026@N07/15081249943" title="61 by 辜 小, on Flickr"><img src="https://farm8.staticflickr.com/7567/15081249943_4ed0c8b01c_o.png" width="655" height="533" alt="61"></a>
+<img src="https://farm8.staticflickr.com/7567/15081249943_4ed0c8b01c_o.png" width="655" height="533" alt="61">
 
-<a href="https://www.flickr.com/photos/126420026@N07/15080642264" title="62 by 辜 小, on Flickr"><img src="https://farm4.staticflickr.com/3941/15080642264_b85488ed4b_o.png" width="651" height="589" alt="62"></a>
+<img src="https://farm4.staticflickr.com/3941/15080642264_b85488ed4b_o.png" width="651" height="589" alt="62">
 
-<a href="https://www.flickr.com/photos/126420026@N07/15515778610" title="63 by 辜 小, on Flickr"><img src="https://farm4.staticflickr.com/3947/15515778610_b052ec12bd_o.png" width="653" height="563" alt="63"></a>
+<img src="https://farm4.staticflickr.com/3947/15515778610_b052ec12bd_o.png" width="653" height="563" alt="63">
 
-<a href="https://www.flickr.com/photos/126420026@N07/15700583735" title="64 by 辜 小, on Flickr"><img src="https://farm8.staticflickr.com/7560/15700583735_39400eb95f_o.png" width="651" height="647" alt="64"></a>
+<img src="https://farm8.staticflickr.com/7560/15700583735_39400eb95f_o.png" width="651" height="647" alt="64">
 
-<a href="https://www.flickr.com/photos/126420026@N07/15676870006" title="65 by 辜 小, on Flickr"><img src="https://farm6.staticflickr.com/5613/15676870006_f4ccfd57e9_o.png" width="651" height="537" alt="65"></a>
+<img src="https://farm6.staticflickr.com/5613/15676870006_f4ccfd57e9_o.png" width="651" height="537" alt="65">
 
-<a href="https://www.flickr.com/photos/126420026@N07/15515201038" title="66 by 辜 小, on Flickr"><img src="https://farm4.staticflickr.com/3949/15515201038_9bded24bda_o.png" width="651" height="487" alt="66"></a>
+<img src="https://farm4.staticflickr.com/3949/15515201038_9bded24bda_o.png" width="651" height="487" alt="66">
 
 二、每個名稱事件之合約 (表6.6 p169)<br>
 1.旅行社查詢作業<br>
@@ -527,3 +527,5 @@
 
 6.客戶意見留言作業<br>
 <img src="https://farm6.staticflickr.com/5601/14969817753_02aecbe663_o.png" width="617" height="627" alt="676">
+
+<img src="https://farm8.staticflickr.com/7478/15215966323_fa2cf2484d_o.png" width="1271" height="658" alt="Untitled">
