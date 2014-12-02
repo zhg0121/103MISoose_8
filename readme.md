@@ -439,7 +439,7 @@
 註:屬性需加入visibility + data type 以及屬於哪種類別boundary entity controller<br>
 
 1.旅行社查詢作業概念 初步類別圖<br>
-<img src="https://farm8.staticflickr.com/7527/15835388535_099625affa_o.png" width="1100" height="238" alt="1.旅行社查詢作業概念_初步類別圖">
+<img src="https://farm8.staticflickr.com/7518/15929357881_3724ecf362_o.png" width="1100" height="238" alt="1.旅行社查詢作業概念_初步類別圖">
 
 2.價格比對查詢作業 初步類別圖<br>
 <img src="https://farm6.staticflickr.com/5612/15649582869_9d9caf2743_o.png" width="1566" height="279" alt="2.價格比對查詢作業_初步類別圖">
@@ -451,14 +451,14 @@
 <img src="https://farm9.staticflickr.com/8678/15215966383_63be73e89e_o.png" width="1849" height="276" alt="4.景點介紹影片查詢作業_初步類別圖">
 
 5.客戶基本資料作業 初步類別圖<br>
-<img src="https://farm8.staticflickr.com/7501/15215966333_1093e4f6a9_o.png" width="1151" height="553" alt="5.客戶基本資料作業_初步類別圖_2版">
+<img src="https://farm9.staticflickr.com/8626/15905514846_a2b7fa4528_o.png" width="1523" height="553" alt="5.客戶基本資料作業_初步類別圖_2版">
 
 6.客戶意見留言系統 初步類別圖<br>
 <img src="https://farm8.staticflickr.com/7464/15649961568_a89dd7d267_o.png" width="1132" height="275" alt="6.客戶意見留言系統 初步類別圖">
 
 六、系統的初步類別圖 (p151 圖5.30)<br>
 註:屬性需加入visibility + data type以及屬於哪種類別boundary entity controller<br>
-<img src="https://farm6.staticflickr.com/5608/15833525981_9f7b1d8b72_o.png" width="2337" height="1311" alt="系統初步類別圖_專業版">
+<img src="https://farm9.staticflickr.com/8580/15745566837_8a020bb9d7_o.png" width="2337" height="1311" alt="系統初步類別圖_專業版">
 
 參、個別使用案例文件<br>
 一、使用案例主要成功情節之英文名稱事件對應 (表6.5 p169）<br>
@@ -528,6 +528,6 @@
 6.客戶意見留言作業<br>
 <img src="https://farm6.staticflickr.com/5601/14969817753_02aecbe663_o.png" width="617" height="627" alt="676">
 
-<img src="https://farm8.staticflickr.com/7478/15215966323_fa2cf2484d_o.png" width="1271" height="658" alt="Untitled">
+<img src="https://farm8.staticflickr.com/7511/15929357901_2c21be10a3_o.png" width="1412" height="629" alt="Untitled">
 
-<img src="https://farm8.staticflickr.com/7561/15306235004_554c0b2e87_o.png" width="759" height="502" alt="強韌圖">
+<img src="https://farm8.staticflickr.com/7467/15311678693_134c08ffe8_o.png" width="820" height="503" alt="強韌圖">
