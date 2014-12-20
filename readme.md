@@ -531,3 +531,6 @@
 <img src="https://farm8.staticflickr.com/7511/15929357901_2c21be10a3_o.png" width="1412" height="629" alt="Untitled">
 
 <img src="https://farm8.staticflickr.com/7467/15311678693_134c08ffe8_o.png" width="820" height="503" alt="強韌圖">
+
+ER MODEL
+<img src="https://farm8.staticflickr.com/7478/16038971036_cbafec0e21_o.jpg" width="1228" height="808" alt="10860722_867643296590343_985004350_o">
