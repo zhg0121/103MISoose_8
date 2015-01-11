@@ -536,6 +536,3 @@
 
 ER Model
 <img src="https://farm8.staticflickr.com/7478/16038971036_cbafec0e21_o.jpg" width="1228" height="808" alt="10860722_867643296590343_985004350_o">
-
-程式碼
-https://drive.google.com/file/d/0BwT6zufh_O0xT2RUdFQ5MzlKbkE/view?usp=sharing
